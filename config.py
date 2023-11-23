@@ -26,20 +26,20 @@ id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # pyro client config
-    API_ID    = os.environ.get("API_ID", "")
-    API_HASH  = os.environ.get("API_HASH", "")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+    API_ID    = os.environ.get("API_ID", "24665754")
+    API_HASH  = os.environ.get("API_HASH", "a0b67179736c205af31a20fc045670ce")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6319901245:AAGYIqqehBexB3bGwXImxzmnYN-jinfZfGQ") 
    
     # database config
-    DB_NAME = os.environ.get("DB_NAME","pyro-botz")     
-    DB_URL  = os.environ.get("DB_URL","")
+    DB_NAME = os.environ.get("DB_NAME","cluster 1")     
+    DB_URL  = os.environ.get("DB_URL","mongodb+srv://animeworldtamil:kingsoftamil405@cluster1.w7fcc0q.mongodb.net/?retryWrites=true&amp;w=majority")
  
     # other configs
     BOT_UPTIME  = time.time()
     START_PIC   = os.environ.get("START_PIC", "")
-    ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '').split()]
-    FORCE_SUB   = os.environ.get("FORCE_SUB", "") 
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", None))
+    ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '5101014435').split()]
+    FORCE_SUB   = os.environ.get("FORCE_SUB", "animeworldtn") 
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1002083047876))
 
     # wes response configuration     
     WEBHOOK = bool(os.environ.get("WEBHOOK", "True"))
