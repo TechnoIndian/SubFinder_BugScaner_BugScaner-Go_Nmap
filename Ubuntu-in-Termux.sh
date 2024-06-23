@@ -7,6 +7,7 @@ proot-distro install ubuntu
 echo "proot-distro login ubuntu" > $HOME/../usr/bin/fsu
 chmod +x $HOME/../usr/bin/fsu
 clear && cd && rm Ubuntu-in-Termux.sh && clear
+termux-open-url https://t.me/rktechnoindians
 
 RED="\e[31m"
 PINK="\e[95m"
@@ -42,5 +43,4 @@ echo -e "${RED}🚩 ࿗ Jai Shree Ram ࿗ 🚩
 echo -e "\e[32m===========================================\e[0m" && echo -e "\e[1;34m[*] \e[32mGreat ! Ubuntu Installed Successfully..\e[0m" && echo -e "\e[32m===========================================\e[0m"
 echo -e "${PINK}︻デ═一 Always use 'fsu' to Run Ubuntu ${ENDCOLOR}"
 echo -e "${PINK}︻デ═一 Always use 'exit' to Logout Ubuntu ${ENDCOLOR}"
-termux-open-url https://t.me/rktechnoindians
 fsu
