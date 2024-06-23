@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://s12.gifyu.com/images/SrITK.gif">
+<a href="https://t.me/rktechnoindians"><img src="https://s12.gifyu.com/images/SrITK.gif"></a>
 </p>
 
 
