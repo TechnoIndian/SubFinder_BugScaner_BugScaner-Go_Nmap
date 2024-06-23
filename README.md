@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-<a href="https://t.me/rktechnoindians"><img src="https://s12.gifyu.com/images/SrITK.gif"></a>
+<a href="https://t.me/rktechnoindians"><img src="https://s10.gifyu.com/images/SrIwA.gif"></a>
 </p>
 
 
 
-# Ubuntu in Termux
+## Frida-Tools in Termux
 
 
 ## Installation Commands
