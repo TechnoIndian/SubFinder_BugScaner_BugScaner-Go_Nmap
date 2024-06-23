@@ -9,7 +9,7 @@
 
 ## Botfather Commands
 ```python
-pkg install wget -y && wget -O Ubuntu-in-Termux.sh https://github.com/TechnoIndian/Ubuntu && chmod -R +x Dex2c.sh && ./Dex2c.sh
+pkg install wget -y && wget -O Ubuntu-in-Termux.sh https://github.com/TechnoIndian/Ubuntu/blob/main/Ubuntu-in-Termux.sh && chmod -R +x Ubuntu-in-Termux.sh && ./Ubuntu-in-Termux.sh
 ```
 
 
