@@ -25,5 +25,5 @@ pkg install wget -y && wget -O Frida-Tools-in-Termux.sh https://raw.githubuserco
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
   </a><p>
-[![Telegram](https://img.shields.io/badge/TELEGRAM-OWNER-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-OWNER-red?style=for-the-badge&logo=telegram)](https://t.me/RK_TECHNO_INDIA)
 </p>
