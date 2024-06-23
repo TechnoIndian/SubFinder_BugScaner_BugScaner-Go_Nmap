@@ -8,8 +8,8 @@
 
 
 ## Botfather Commands
-```python
-pkg install wget -y && wget -O Ubuntu-in-Termux.sh https://github.com/TechnoIndian/Ubuntu/blob/main/Ubuntu-in-Termux.sh && chmod -R +x Ubuntu-in-Termux.sh && ./Ubuntu-in-Termux.sh
+```sh
+pkg install wget -y && wget -O Ubuntu-in-Termux.sh https://raw.githubusercontent.com/TechnoIndian/Ubuntu/main/Ubuntu-in-Termux.sh && chmod -R +x Ubuntu-in-Termux.sh && ./Ubuntu-in-Termux.sh
 ```
 
 
