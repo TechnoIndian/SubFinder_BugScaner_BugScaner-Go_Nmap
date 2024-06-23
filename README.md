@@ -1,4 +1,4 @@
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://www.deviantart.com/download/213361962/d3j1356-855cfd6b-6cf8-4deb-92d8-3260ae570d56.gif?token=44d130bc2d156d6fa19561593d9b8eadf7757163&ts=1719146301)">
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://images.app.goo.gl/QLvhx1AoQnggWbZr9)">
 
 # 𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓
 
