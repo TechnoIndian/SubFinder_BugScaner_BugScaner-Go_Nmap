@@ -20,5 +20,6 @@ pkg install wget -y && wget -O Ubuntu-in-Termux.sh https://raw.githubusercontent
 ## 🇮🇳 Welcome By Techno India 🇮🇳
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
-  <a
-[![Telegram](https://img.shields.io/badge/TELEGRAM-OWNER-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians) </a>
+  </a><p
+[![Telegram](https://img.shields.io/badge/TELEGRAM-OWNER-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
+</p>
