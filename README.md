@@ -10,6 +10,7 @@
 ## Botfather Commands
 ```python
 pkg install wget -y && wget -O Ubuntu-in-Termux.sh https://github.com/TechnoIndian/Ubuntu && chmod -R +x Dex2c.sh && ./Dex2c.sh
+```
 
 
 ## 🇮🇳 Welcome By Techno India 🇮🇳
