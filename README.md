@@ -21,6 +21,4 @@ pkg install wget -y && wget -O Ubuntu-in-Termux.sh https://raw.githubusercontent
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
   </a>
-<a href="https://t.me/RK_TECHNO_INDIA">
-   <p> OWNER </p>
-  </a>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-OWNER-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
