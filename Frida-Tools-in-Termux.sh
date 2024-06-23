@@ -15,7 +15,7 @@ pip install *.whl frida-tools
 pip cache purge
 cd ..
 rm -rf frida-16*
-cd && clear
+cd && rm Frida-Tools-in-Termux.sh && clear
 termux-open-url https://t.me/rktechnoindians
 
 RED="\e[31m"
