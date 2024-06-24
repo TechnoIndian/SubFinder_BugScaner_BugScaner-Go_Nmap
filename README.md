@@ -7,7 +7,7 @@
 
 
 <p align="center"> 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=F74848&center=true&vCenter=true&random=false&width=435&lines=𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫-𝐢𝐧-𝐓𝐞𝐫𝐦𝐮𝐱" /> 
+<a href="https://t.me/rktechnoindians"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=F74848&center=true&vCenter=true&random=false&width=435&lines=𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫-𝐢𝐧-𝐓𝐞𝐫𝐦𝐮𝐱" /></a>
  </p>
 
 
