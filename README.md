@@ -5,10 +5,15 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1 align="center">𝐅𝐫𝐢𝐝𝐚-𝐓𝐨𝐨𝐥𝐬 𝐢𝐧 𝐓𝐞𝐫𝐦𝐮𝐱</h1>
+  <h1 align="center">𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫 𝐢𝐧 𝐓𝐞𝐫𝐦𝐮𝐱</h1>
 
 <p align="center">
-<a href="https://t.me/rktechnoindians"><img src="https://s10.gifyu.com/images/SrIwA.gif"></a>
+<a href="https://t.me/rktechnoindians"><img title="___     _ _   _         _   _              
+(  _ \ /  )_ )(  \      ( )_( )_            
+| (_) )  / | | \  |_   _|  _)  _)  __  _ __ 
+|  _ (| |  | |  | | ) ( ) | | |  / __ \  __)
+| (_) )  \ | | /  | (_) | |_| |_(  ___/ |   
+(____/ \__)___)__/ \___/ \__)\__)\____)_)"></a>
 </p>
 
 
