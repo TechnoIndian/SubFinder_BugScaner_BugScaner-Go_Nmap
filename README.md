@@ -15,7 +15,7 @@
 
 ## Installation Commands
 ```python
-pkg install wget -y && wget -O Blutter-in-Termux.sh https://raw.githubusercontent.com/TechnoIndian/Blutter-in-Termux/main/Blutter-in-Termux.sh && chmod -R +x Blutter-in-Termux.sh && ./Blutter-in-Termux.sh
+curl -s https://raw.githubusercontent.com/TechnoIndian/Blutter-in-Termux/main/Blutter-in-Termux.sh | bash
 ```
 
 ## Run B(l)utter
