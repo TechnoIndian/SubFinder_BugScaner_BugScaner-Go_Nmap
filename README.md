@@ -5,8 +5,9 @@
 <a name="readme-top"></a>
 
 
-   <p align="center"> 
- <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫+𝐢𝐧 𝐓𝐞𝐫𝐦𝐮𝐱" /> 
+
+<p align="center"> 
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫-𝐢𝐧-𝐓𝐞𝐫𝐦𝐮𝐱" /> 
  </p>
 
 
