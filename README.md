@@ -7,7 +7,11 @@
 <div align="center">
   <h1 align="center">𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫 𝐢𝐧 𝐓𝐞𝐫𝐦𝐮𝐱</h1>
 
+  https://readme-typing-svg.herokuapp.com?color=%FFA500&center=true&vCenter=true&lines=𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫 + 𝐢𝐧 𝐓𝐞𝐫𝐦𝐮𝐱
+
 <p align="center">
+
+  
 <a href="https://t.me/rktechnoindians"><img title="___     _ _   _         _   _              
 (  _ \ /  )_ )(  \      ( )_( )_            
 | (_) )  / | | \  |_   _|  _)  _)  __  _ __ 
