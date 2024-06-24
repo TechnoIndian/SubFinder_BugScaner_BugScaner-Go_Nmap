@@ -15,7 +15,7 @@
 
 ## Installation Commands
 ```python
-pkg install wget -y && wget -O Blutter-in-Termux.sh https://raw.githubusercontent.com/TechnoIndian/Frida-Tools/main/Frida-Tools-in-Termux.sh && chmod -R +x Blutter-in-Termux.sh && ./Blutter-in-Termux.sh
+pkg install wget -y && wget -O Blutter-in-Termux.sh https://raw.githubusercontent.com/TechnoIndian/Blutter-in-Termux/main/Blutter-in-Termux.sh && chmod -R +x Blutter-in-Termux.sh && ./Blutter-in-Termux.sh
 ```
 
 
