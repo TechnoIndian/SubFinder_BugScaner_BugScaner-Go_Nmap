@@ -11,7 +11,9 @@
  </p>
 
 
-
+<p align="center"> 
+ <img src="[https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫-𝐢𝐧-𝐓𝐞𝐫𝐦𝐮𝐱](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=50&size=35&pause=1000&color=F74848&random=false&width=435&lines=%F0%9D%90%81(%F0%9D%90%A5)%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%A2%F0%9D%90%A7-%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A6%F0%9D%90%AE%F0%9D%90%B1)" /> 
+ </p>
 
 
 
