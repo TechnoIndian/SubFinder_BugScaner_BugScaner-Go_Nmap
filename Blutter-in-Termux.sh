@@ -4,7 +4,8 @@ pkg install -y git cmake ninja build-essential pkg-config libicu capstone fmt py
 pip install requests pyelftools pycryptodome
 wget https://github.com/dedshit/blutter-termux/archive/refs/heads/main.zip
 unzip main.zip && cd blutter-termux-main && zip -r main.zip . && mv main.zip $HOME && cd $HOME && unzip main.zip && rm -rf blutter-termux-main && rm main.zip
-clear && termux-open-url https://t.me/rktechnoindians/764
+cd && rm Blutter-in-Termux.sh && clear
+termux-open-url https://t.me/rktechnoindians/764
 
 RED="\e[31m"
 PINK="\e[95m"
