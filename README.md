@@ -18,6 +18,12 @@
 pkg install wget -y && wget -O Blutter-in-Termux.sh https://raw.githubusercontent.com/TechnoIndian/Blutter-in-Termux/main/Blutter-in-Termux.sh && chmod -R +x Blutter-in-Termux.sh && ./Blutter-in-Termux.sh
 ```
 
+## Run B(l)utter
+# Change the 'PATH' & 'FOLDER_NAME' as you like
+```python
+python blutter.py /sdcard/MT2/apks/arm64-v8a /sdcard/MT2/apks/Folder_Name
+```
+
 
 ## 🇮🇳 Welcome By Techno India 🇮🇳
 
