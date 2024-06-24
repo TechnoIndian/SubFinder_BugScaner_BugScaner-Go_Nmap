@@ -1,3 +1,4 @@
+clear
 termux-setup-storage
 apt update -y && apt upgrade -y
 pkg install -y git cmake ninja build-essential pkg-config libicu capstone fmt python-pip wget zip ripgrep neovim
