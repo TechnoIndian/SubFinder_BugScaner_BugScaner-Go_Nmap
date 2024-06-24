@@ -7,7 +7,9 @@
 <div align="center">
   <h1 align="center">𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫 𝐢𝐧 𝐓𝐞𝐫𝐦𝐮𝐱</h1>
 
-  https://readme-typing-svg.herokuapp.com?color=%FFA500&center=true&vCenter=true&lines=𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫 + 𝐢𝐧 𝐓𝐞𝐫𝐦𝐮𝐱
+   <p align="center"> 
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫 + 𝐢𝐧 𝐓𝐞𝐫𝐦𝐮𝐱" /> 
+ </p>
 
 <p align="center">
 
