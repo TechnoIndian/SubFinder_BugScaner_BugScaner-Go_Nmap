@@ -1,10 +1,11 @@
 clear
 termux-setup-storage
 apt update -y && apt upgrade -y
-echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc
 pkg install golang -y
 termux-change-repo
 go install -v github.com/aztecrabbit/bugscanner-go@latest
+cd $HOME && cd ~/go/bin
+mv bugscanner-go $PREFIX/bin/ && chmod +x $PREFIX/bin/bugscanner-go
 cd && clear
 termux-open-url https://t.me/rktechnoindians/764
 
