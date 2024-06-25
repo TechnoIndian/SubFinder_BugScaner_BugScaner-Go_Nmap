@@ -12,7 +12,6 @@
 # 𝐒𝐮𝐛𝐅𝐢𝐧𝐝𝐞𝐫 + 𝐁𝐮𝐠𝐒𝐜𝐚𝐧𝐞𝐫-𝐆𝐨 + 𝐁𝐮𝐠𝐒𝐜𝐚𝐧𝐞𝐫 + 𝐍𝐦𝐚𝐩
 
 
-
 ## Installation Commands
 ```python
 curl -s https://raw.githubusercontent.com/TechnoIndian/SubFinder_BugScaner_BugScaner-Go_Nmap/main/All-in-One.sh | bash
@@ -22,8 +21,6 @@ curl -s https://raw.githubusercontent.com/TechnoIndian/SubFinder_BugScaner_BugSc
 <p align="center"> 
 <a href="https://t.me/rktechnoindians"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=F74848&center=true&vCenter=true&random=false&width=435&lines=𝐒𝐮𝐛𝐅𝐢𝐧𝐝𝐞𝐫-𝐢𝐧-𝐓𝐞𝐫𝐦𝐮𝐱" /></a>
  </p>
-
-
 
 
 ## Installation Commands
@@ -78,6 +75,12 @@ bugscanner scan.txt --output /sdcard/scanned.txt --threads 150
 ```python
 bugscanner scan.txt --port 53 --output scanned.txt --threads 150
 ```
+
+# If u want Method/Mode Change add in '--method GET' , '--mode proxy’ , '--mode ssl’ , '--mode udp’
+```python
+bugscanner scan.txt --port 53 --output scanned.txt --threads 150 --method GET
+```
+
 
 <p align="center"> 
 <a href="https://t.me/rktechnoindians"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=F74848&center=true&vCenter=true&random=false&width=435&lines=𝐍𝐦𝐚𝐩-𝐢𝐧-𝐓𝐞𝐫𝐦𝐮𝐱" /></a>
