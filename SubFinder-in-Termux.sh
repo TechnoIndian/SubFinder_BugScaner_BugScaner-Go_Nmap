@@ -1,9 +1,7 @@
 clear
 termux-setup-storage
 apt update -y && apt upgrade -y
-echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc
-pkg install golang -y
-go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc && pkg install golang -y && go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 cd && clear
 termux-open-url https://t.me/rktechnoindians/764
 
