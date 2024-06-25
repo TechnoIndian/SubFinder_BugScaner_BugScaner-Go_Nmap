@@ -18,6 +18,7 @@ curl -s https://raw.githubusercontent.com/TechnoIndian/SubFinder_BugScaner_BugSc
 ```
 
 
+
 <p align="center"> 
 <a href="https://t.me/rktechnoindians"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=F74848&center=true&vCenter=true&random=false&width=435&lines=𝐒𝐮𝐛𝐅𝐢𝐧𝐝𝐞𝐫-𝐢𝐧-𝐓𝐞𝐫𝐦𝐮𝐱" /></a>
  </p>
