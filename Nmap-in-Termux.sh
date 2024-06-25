@@ -3,7 +3,7 @@ termux-setup-storage
 apt update -y && apt upgrade -y
 pkg install -y nmap
 cd && clear
-termux-open-url https://t.me/rktechnoindians/764
+termux-open-url https://t.me/rktechnoindians
 
 RED="\e[31m"
 PINK="\e[95m"
