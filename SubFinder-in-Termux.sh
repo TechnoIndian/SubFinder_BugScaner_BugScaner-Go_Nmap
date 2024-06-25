@@ -3,6 +3,8 @@ termux-setup-storage
 apt update -y && apt upgrade -y
 pkg install golang -y
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+cd $HOME && cd ~/go/bin
+mv subfinder $PREFIX/bin/ && chmod +x $PREFIX/bin/subfinder
 cd && clear
 termux-open-url https://t.me/rktechnoindians
 
@@ -37,5 +39,3 @@ echo -e "${RED}🚩 ࿗ Jai Shree Ram ࿗ 🚩
      
      
 echo -e "\e[32m===============================================\e[0m" && echo -e "\e[1;34m[*] \e[32mGreat ! \e[1;31m𝐒𝐮𝐛𝐅𝐢𝐧𝐝𝐞𝐫 \e[32mInstalled Successfully..\e[0m" && echo -e "\e[32m===============================================\e[0m"
-echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc
-source $HOME/.bashrc
